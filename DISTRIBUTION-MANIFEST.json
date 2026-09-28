@@ -1,0 +1,20 @@
+{
+  "channel": "public",
+  "sourceCommit": "72a81818868460b1e86b10dbedd8135c949075f4",
+  "destination": ".release/cx-kit-docs",
+  "selectedFileCount": 508,
+  "excludedFileCount": 74,
+  "publicRoutes": [
+    "/",
+    "/tokens",
+    "/icons",
+    "/foundations/color",
+    "/foundations/effects",
+    "/foundations/radius",
+    "/foundations/spacing",
+    "/foundations/typography",
+    "/components/*",
+    "/templates/*",
+    "/prototypes/oneapp-production"
+  ]
+}
