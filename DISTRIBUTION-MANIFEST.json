@@ -1,6 +1,6 @@
 {
   "channel": "public",
-  "sourceCommit": "72a81818868460b1e86b10dbedd8135c949075f4",
+  "sourceCommit": "6f41b9349c3b0cd96f3ab0ff972ac24a73607603",
   "destination": ".release/cx-kit-docs",
   "selectedFileCount": 508,
   "excludedFileCount": 74,
