@@ -2,4 +2,4 @@
 :HL["/cx-kit-docs/_next/static/chunks/2nkezii59g4md.css","style"]
 :HC["/",""]
 :HL["/cx-kit-docs/_next/static/chunks/1lm4luh-0mapo.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"components","param":null,"prefetchHints":4192,"slots":{"children":{"name":"input-phone","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"aE1ggHfyW-rLa0CkWjru3"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"components","param":null,"prefetchHints":4192,"slots":{"children":{"name":"input-phone","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"KYYGYfh8vyMYsy7sZlnEN"}
